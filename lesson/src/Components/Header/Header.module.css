@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    font-size: 28px;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
